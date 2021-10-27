@@ -41,7 +41,7 @@ const without = function(arr1, arr2) {
   }
   return filteredItems
 }
-// not sure how to test the without function!
+
 console.log(without([1, 2, 3], [1]))
 console.log(without(["1", "2", "3"], [1, 2, "3"]))
 
