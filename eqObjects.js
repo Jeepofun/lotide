@@ -49,3 +49,4 @@ eqObjects(cd, cd2)
 
 assertEqual(eqObjects(cd, dc));
 assertEqual(eqObjects(cd, cd2));
+//my extra code may have caused it not to pass the assertion test.  Will check on this again later.
